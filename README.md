@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/chaithanya2035/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/chaithanya2035/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaithanya2035/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/chaithanya2035/Leetcode/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaithanya2035/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/chaithanya2035/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/chaithanya2035/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
