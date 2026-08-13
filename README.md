@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaithanya2035/Leetcode/tree/master/0002-add-two-numbers) |
+| [0142-linked-list-cycle-ii](https://github.com/chaithanya2035/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -15,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaithanya2035/Leetcode/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/chaithanya2035/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/chaithanya2035/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/chaithanya2035/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
