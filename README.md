@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chaithanya2035/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/chaithanya2035/Leetcode/tree/master/0189-rotate-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chaithanya2035/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/chaithanya2035/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/chaithanya2035/Leetcode/tree/master/0258-add-digits) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/chaithanya2035/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
 | ------- |
