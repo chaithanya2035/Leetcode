@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chaithanya2035/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaithanya2035/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/chaithanya2035/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/chaithanya2035/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chaithanya2035/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/chaithanya2035/Leetcode/tree/master/0202-happy-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/chaithanya2035/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chaithanya2035/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chaithanya2035/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/chaithanya2035/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chaithanya2035/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/chaithanya2035/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/chaithanya2035/Leetcode/tree/master/0189-rotate-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/chaithanya2035/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/chaithanya2035/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chaithanya2035/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/chaithanya2035/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/chaithanya2035/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/chaithanya2035/Leetcode/tree/master/0242-valid-anagram) |
 | [3856-trim-trailing-vowels](https://github.com/chaithanya2035/Leetcode/tree/master/3856-trim-trailing-vowels) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/chaithanya2035/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/chaithanya2035/Leetcode/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chaithanya2035/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
