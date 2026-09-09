@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/chaithanya2035/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/chaithanya2035/Leetcode/tree/master/0258-add-digits) |
 | [1512-number-of-good-pairs](https://github.com/chaithanya2035/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3871-count-commas-in-range-ii](https://github.com/chaithanya2035/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
