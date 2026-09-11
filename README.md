@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/chaithanya2035/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/chaithanya2035/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/chaithanya2035/Leetcode/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/chaithanya2035/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1512-number-of-good-pairs](https://github.com/chaithanya2035/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/chaithanya2035/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chaithanya2035/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/chaithanya2035/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/chaithanya2035/Leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/chaithanya2035/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/chaithanya2035/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
