@@ -81,6 +81,7 @@ A collection of LeetCode questions.
 | [0053-maximum-subarray](https://github.com/chaithanya2035/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/chaithanya2035/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/chaithanya2035/Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/chaithanya2035/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/chaithanya2035/Leetcode/tree/master/0704-binary-search) |
 | [1512-number-of-good-pairs](https://github.com/chaithanya2035/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/chaithanya2035/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/chaithanya2035/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1991-find-the-middle-index-in-array](https://github.com/chaithanya2035/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Trie
 |  |
