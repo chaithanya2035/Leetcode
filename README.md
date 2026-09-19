@@ -19,6 +19,7 @@ A collection of LeetCode questions.
 | [0009-palindrome-number](https://github.com/chaithanya2035/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/chaithanya2035/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/chaithanya2035/Leetcode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/chaithanya2035/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/chaithanya2035/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chaithanya2035/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/chaithanya2035/Leetcode/tree/master/0231-power-of-two) |
