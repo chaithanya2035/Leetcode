@@ -81,6 +81,7 @@ A collection of LeetCode questions.
 | [0049-group-anagrams](https://github.com/chaithanya2035/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chaithanya2035/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/chaithanya2035/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/chaithanya2035/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chaithanya2035/Leetcode/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/chaithanya2035/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/chaithanya2035/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/chaithanya2035/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chaithanya2035/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/chaithanya2035/Leetcode/tree/master/0231-power-of-two) |
 ## Simulation
@@ -189,5 +191,6 @@ A collection of LeetCode questions.
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/chaithanya2035/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chaithanya2035/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
